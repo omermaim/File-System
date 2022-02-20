@@ -14,8 +14,10 @@ the program supports these operations.
  Create a new filesystem with given filename
 
 Assume that the filename does not exist already
+ 
+ the name must start with BGUFS_
 
-Example: BGUFS.exe -create MYBGUFS.dat
+Example: BGUFS.exe -create BGUFS_1.dat
 
  
 
